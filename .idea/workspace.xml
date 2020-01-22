@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5626c40-4ffd-4dd6-8c6b-ec845c799dd1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WRmg80Xo9M87LD3VEWgNXlQtpg" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sortroutines" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SortTester">
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortroutines.MergeSort" />
+      <module name="SortingEnv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sortroutines.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortroutines.MergeSortPlus" />
+      <module name="SortingEnv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sortroutines.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortroutines.MyBST" />
+      <module name="SortingEnv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sortroutines.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortroutines.QuickSort" />
+      <module name="SortingEnv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sortroutines.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="runtime.SortTester" />
+      <module name="SortingEnv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runtime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortTester" />
+        <item itemvalue="Application.MyBST" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.MergeSortPlus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5626c40-4ffd-4dd6-8c6b-ec845c799dd1" name="Default Changelist" comment="" />
+      <created>1579120889208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579120889208</updated>
+      <workItem from="1579120897678" duration="6000" />
+      <workItem from="1579121878089" duration="1269000" />
+      <workItem from="1579223782414" duration="1925000" />
+      <workItem from="1579464913827" duration="1963000" />
+      <workItem from="1579638388069" duration="5435000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1579638719413">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="453" y="128" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1579638719413" />
+    <state x="489" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579121903177">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="489" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.777@0.23.1280.777" timestamp="1579121903177" />
+    <state width="454" height="466" key="DebuggerActiveHint" timestamp="1579657872076">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="454" height="466" key="DebuggerActiveHint/0.23.1280.777@0.23.1280.777" timestamp="1579657872076" />
+    <state width="1238" height="296" key="GridCell.Tab.0.bottom" timestamp="1579723689075">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="296" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1579723689075" />
+    <state width="1238" height="296" key="GridCell.Tab.0.center" timestamp="1579723689074">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="296" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1579723689074" />
+    <state width="1238" height="296" key="GridCell.Tab.0.left" timestamp="1579723689073">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="296" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1579723689073" />
+    <state width="1238" height="296" key="GridCell.Tab.0.right" timestamp="1579723689074">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="296" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1579723689074" />
+    <state width="1238" height="296" key="GridCell.Tab.1.bottom" timestamp="1579723689077">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="296" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1579723689077" />
+    <state width="1238" height="296" key="GridCell.Tab.1.center" timestamp="1579723689076">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="296" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1579723689076" />
+    <state width="1238" height="296" key="GridCell.Tab.1.left" timestamp="1579723689075">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="296" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1579723689075" />
+    <state width="1238" height="296" key="GridCell.Tab.1.right" timestamp="1579723689076">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="296" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1579723689076" />
+    <state x="379" y="129" key="RollbackChangesDialog" timestamp="1579726401285">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="379" y="129" key="RollbackChangesDialog/0.23.1280.777@0.23.1280.777" timestamp="1579726401285" />
+    <state x="346" y="34" key="refactoring.ChangeSignatureDialog" timestamp="1579656440942">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="346" y="34" key="refactoring.ChangeSignatureDialog/0.23.1280.777@0.23.1280.777" timestamp="1579656440942" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortroutines/BubbleSort2.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortroutines/BubbleSort2.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortroutines/QuickSort.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortroutines/QuickSort.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="index == 4000" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/sortroutines/MyBST.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
