@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5626c40-4ffd-4dd6-8c6b-ec845c799dd1" name="Default Changelist" comment="" />
+    <list default="true" id="e5626c40-4ffd-4dd6-8c6b-ec845c799dd1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WRmg80Xo9M87LD3VEWgNXlQtpg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -144,11 +147,24 @@
       <workItem from="1579223782414" duration="1925000" />
       <workItem from="1579464913827" duration="1963000" />
       <workItem from="1579638388069" duration="5435000" />
+      <workItem from="1579726318089" duration="1239000" />
     </task>
+    <task id="LOCAL-00001" summary="upload project">
+      <created>1579726462360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579726462360</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload project" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="453" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1579638719413">
@@ -159,6 +175,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="489" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.777@0.23.1280.777" timestamp="1579121903177" />
+    <state x="204" y="23" width="854" height="777" key="CommitChangelistDialog2" timestamp="1579726461945">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="204" y="23" width="854" height="777" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1579726461945" />
     <state width="454" height="466" key="DebuggerActiveHint" timestamp="1579657872076">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -199,6 +219,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="379" y="129" key="RollbackChangesDialog/0.23.1280.777@0.23.1280.777" timestamp="1579726401285" />
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1579726480121">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1579726480121" />
     <state x="346" y="34" key="refactoring.ChangeSignatureDialog" timestamp="1579656440942">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
